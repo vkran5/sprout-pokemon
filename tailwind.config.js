@@ -13,7 +13,8 @@ module.exports = {
 
     },
     fontFamily: {
-      zen: ['Zen Antique Soft', 'serif']
+      zen: ['Zen Antique Soft', 'serif'],
+      rubik: ['Rubik', 'sans-serif']
       }
     }
   },
